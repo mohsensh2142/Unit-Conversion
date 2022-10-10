@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgba(105, 67, 255, 1);
+    width: 100vw;
+    height: 35vh; 
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    ;
+}
+
+input {
+    width: 117px;
+    height: 83px;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+}
+
+button {
+    display: block;
+    width: 117px;
+    height: 42px;
+}
